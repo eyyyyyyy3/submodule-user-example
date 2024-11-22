@@ -1,0 +1,3 @@
+[submodule "submodule-provider-example"]
+	path = submodule-provider-example
+	url = https://github.com/eyyyyyyy3/submodule-provider-example.git
