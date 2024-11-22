@@ -1,5 +1,5 @@
 [package]
-name = "submodule-user-example"
+name = "submodule-user-example-server"
 version = "0.1.0"
 edition = "2021"
 
